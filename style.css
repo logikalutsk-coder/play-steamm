@@ -9,8 +9,11 @@ header .steam {
 }
 
 body {
-    margin: 0;
 
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
     /* Шрифт */
     font-family: Arial, sans-serif;
 
@@ -23,7 +26,7 @@ body {
 /* ================= HEADER ================= */
 
 header {
-    background-color: #130D24;
+ background-color: #110b20;
     border-bottom: 2px solid #8B5CF6;
 
     padding: 20px 50px;
@@ -238,7 +241,8 @@ transition: 0.3s;
 /* ================= FOOTER ================= */
 
 footer {
-     background-color: #07050C;
+    margin-top: auto;
+     background-color: #110b20;
     color: #F4F0FF;
 
     text-align: center;
