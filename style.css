@@ -15,7 +15,7 @@ body {
     font-family: Arial, sans-serif;
 
     /* Білий фон */
-   background-color: #0B0714;
+   background-color: #32205c;
     color: #F4F0FF;
 }
 
@@ -74,7 +74,7 @@ nav a:hover {
     padding: 100px 20px;
 
     /* Чорний фон */
- background-color: #090611;
+ background-color: #1d1336;
     color: #F4F0FF;
 }
 
